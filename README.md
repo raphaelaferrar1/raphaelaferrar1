@@ -22,9 +22,9 @@ Estagiária DevOps com foco em **SonarCloud** e **Azure DevOps**. Apaixonada por
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
  <a href="https://docs.sonarsource.com/sonarcloud/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3Dsonarcloud&psig=AOvVaw2sYoq5xyW_hqc3w1oZogYP&ust=1726783514359000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICD2YHAzYgDFQAAAAAdAAAAABAE" alt="SonarCloud" width="40" height="40"/>
-  
+        <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3Dsonarcloud&psig=AOvVaw2sYoq5xyW_hqc3w1oZogYP&ust=1726783514359000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICD2YHAzYgDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUy4qqTONVLRpqXwVtYWkDdcKEFMB_gtIrLxfx4lilE20pEXMS5v-bJ_xXor2cJNAMzM&usqp=CAU)" alt="SonarCloud" width="40" height="40"/>
     </a>
 
 
